@@ -1,0 +1,27 @@
+{
+ "use": {
+  "sounds": [
+   "ruleta_dedsafio:use"
+  ]
+ },
+ "boom": {
+  "sounds": [
+   "ruleta_dedsafio:boom"
+  ]
+ },
+ "bed": {
+  "sounds": [
+   "ruleta_dedsafio:bed"
+  ]
+ },
+ "thump": {
+  "sounds": [
+   "ruleta_dedsafio:thump"
+  ]
+ },
+ "finale": {
+  "sounds": [
+   "ruleta_dedsafio:finale"
+  ]
+ }
+}

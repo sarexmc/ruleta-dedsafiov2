@@ -1,0 +1,9 @@
+{
+ "block.ruleta_dedsafio.ruleta_altar": "Altar de la Ruleta",
+ "block.ruleta_dedsafio.ruleta_trigger": "Activador invisible de la Ruleta",
+ "item.ruleta_dedsafio.ruleta_llave": "Dedita Celeste",
+ "itemGroup.ruleta_dedsafio": "Ruleta DEDsafío",
+ "message.ruleta_dedsafio.need_key": "Necesitas la Dedita Celeste en la mano.",
+ "message.ruleta_dedsafio.busy": "La ruleta ya está activa.",
+ "message.ruleta_dedsafio.accepted": "✓ Dedita aceptada."
+}

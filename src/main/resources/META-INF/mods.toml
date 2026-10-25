@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="ruleta_dedsafio"
+version="1.0.0"
+displayName="Ruleta DEDsafio"
+description='''Ruleta cinematografica estilo DEDsafio: altar, oscuridad, destello, ruleta que gira de verdad y anillo final.'''
+
+[[dependencies.ruleta_dedsafio]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.ruleta_dedsafio]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
